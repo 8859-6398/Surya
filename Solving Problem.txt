@@ -87,3 +87,5 @@ TicketNo <= (SELECT COUNT(TicketNo)/2 from tblFirstInspectionDetail);
 	  --CreateUser NVARCHAR(255)
 	
 	  --);
+
+this is a text file
